@@ -1,1 +1,15 @@
 Feature 1: User Authentication System 
+
+Update authentication requirements (and add cat!)
+
+
+             ＿＿
+　　　　　🌸＞　　フ  
+　　　　　| 　_　 _ l        
+　 　　　／` ミ_wノ
+　　 　 /　　　 　 |
+　　　 /　 ヽ　　 ﾉ
+　 　 │　　|　|　|
+　／￣|　　 |　|　|
+　| (￣ヽ＿_ヽ_)__)
+　＼二つ
