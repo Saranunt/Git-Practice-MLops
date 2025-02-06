@@ -1,1 +1,11 @@
 Project Outline: Machine Learning
+
+Added initial project goals and scope (and also doggo!)
+
+     |\_/|                  
+     | @ @   Woof! 
+     |   <>              _  
+     |  _/\------____ ((| |))
+     |               `--' |   
+ ____|_       ___|   |___.' 
+/_/_____/____/_______|
